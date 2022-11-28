@@ -42,7 +42,7 @@ THEN I should have proper build scripts for a webpack application
 
 ### Heroku Link: https://jb-texteditor.herokuapp.com/
 
-### Walk Through Demostration Video: https://drive.google.com/drive/folders/1Rp_GRTSu81jsjfT3v_JAzkE27qCIPLD4
+### Walk Through Demonstration Video: https://drive.google.com/drive/folders/1Rp_GRTSu81jsjfT3v_JAzkE27qCIPLD4
 
 ![Image of the test editor.](./Assets/TextEditor.png)
 
